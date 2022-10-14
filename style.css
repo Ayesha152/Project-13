@@ -145,6 +145,9 @@ color:orange;
 .wrpr{
     margin-bottom: 30px;
 }
+.sec4{
+    padding-bottom: 50px;
+}
 .sec4 h1{
     text-align: center;
     font-size: 22px;
@@ -264,6 +267,7 @@ color:orange;
 }
 .sec4{
     margin:0 5%;
+    padding-bottom: 30px;
 }
 .right-s{
     display: flex;
@@ -280,5 +284,8 @@ color:orange;
 }
 .menu{
     display: none;
+}
+.navbar{
+    margin: 0 5%;
 }
 }
