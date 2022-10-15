@@ -6,7 +6,8 @@
 - How to change the color of the image using filter property.
 - How to design the list items using icons.
 
-## Time taken to complete the proj
+## Time taken to complete the project ⏲️
+
 
 10 hrs
 
